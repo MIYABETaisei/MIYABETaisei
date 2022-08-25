@@ -1,4 +1,4 @@
-<h2>Hi 👋, I'm Taisei</h1>
+<h2>Hi there 👋</h1>
 <h4>I am interested in Blockchain.</h3>
 
 <p> <img src="https://komarev.com/ghpvc/?username=miyabetaisei&label=Profile%20views&color=0e75b6&style=flat" alt="miyabetaisei" /> </p>
