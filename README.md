@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miyabetaisei" alt="miyabetaisei" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/otaclet" target="blank"><img src="https://img.shields.io/twitter/follow/otaclet?logo=twitter&style=for-the-badge" alt="otaclet" /></a> </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
