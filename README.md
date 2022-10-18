@@ -3,7 +3,11 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=otaclet&label=Profile%20views&color=0e75b6&style=flat" alt="otacleT" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=otaclet" alt="otacleT" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=otaclet" alt="otacleT" /></a> </p> -->
+
+![Taisei.M's GitHub stats](https://github-readme-stats.vercel.app/api?username=otacleT&show_icons=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=otacleT)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
