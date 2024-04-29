@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=otaclet" alt="otacleT" /></a> </p> -->
 
-![Taisei.M's GitHub stats](https://github-readme-stats.vercel.app/api?username=otaclet&show_icons=true&count_private=true)
+![Taisei.M's GitHub stats](https://github-readme-stats-five-phi-83.vercel.app/api?username=otaclet&show_icons=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=otacleT)
 <!-- 
